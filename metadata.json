@@ -1,0 +1,6 @@
+{
+  "name": "استودیو توانا | TAVANA Studio",
+  "description": "سامانه مدیریت و تولید محتوای هوشمند و استودیوی خلاق کسب‌وکار (TAVANA Studio)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
